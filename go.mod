@@ -35,7 +35,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.15.4
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.15.3
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.1.0
-	github.com/aws/aws-sdk-go-v2/service/kinesis v1.13.0
+	github.com/aws/aws-sdk-go-v2/service/kinesis v1.15.6
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.6
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.3.2
 	github.com/aws/smithy-go v1.11.2
@@ -195,7 +195,7 @@ require (
 	github.com/apache/arrow/go/arrow v0.0.0-20211006091945-a69884db78f4 // indirect
 	github.com/aristanetworks/glog v0.0.0-20191112221043-67e8567f59f3 // indirect
 	github.com/armon/go-metrics v0.3.3 // indirect
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.2.0 // indirect
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.1 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.2.0 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.5.3 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.11 // indirect
