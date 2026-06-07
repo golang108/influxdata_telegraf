@@ -193,7 +193,7 @@ require (
 	github.com/sensu/sensu-go/api/core/v2 v2.16.0
 	github.com/shirou/gopsutil/v4 v4.26.5
 	github.com/showwin/speedtest-go v1.7.10
-	github.com/signalfx/golib/v3 v3.3.54
+	github.com/signalfx/golib/v3 v3.4.4
 	github.com/sijms/go-ora/v2 v2.9.0
 	github.com/sirupsen/logrus v1.9.4
 	github.com/sleepinggenius2/gosmi v0.4.4
@@ -435,7 +435,7 @@ require (
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
 	github.com/jackc/puddle/v2 v2.2.2 // indirect
-	github.com/jaegertracing/jaeger v1.47.0 // indirect
+	github.com/jaegertracing/jaeger-idl v0.6.0 // indirect
 	github.com/jaypipes/pcidb v1.1.1 // indirect
 	github.com/jcmturner/aescts/v2 v2.0.0 // indirect
 	github.com/jcmturner/dnsutils/v2 v2.0.0 // indirect
@@ -526,7 +526,7 @@ require (
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3 // indirect
 	github.com/signalfx/gohistogram v0.0.0-20160107210732-1ccfd2ff5083 // indirect
-	github.com/signalfx/sapm-proto v0.12.0 // indirect
+	github.com/signalfx/sapm-proto v0.18.0 // indirect
 	github.com/spf13/cast v1.10.0 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/spiffe/go-spiffe/v2 v2.6.0 // indirect
@@ -537,8 +537,6 @@ require (
 	github.com/tklauser/go-sysconf v0.3.16 // indirect
 	github.com/tklauser/numcpus v0.11.0 // indirect
 	github.com/twmb/murmur3 v1.1.7 // indirect
-	github.com/uber/jaeger-client-go v2.30.0+incompatible // indirect
-	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
 	github.com/urfave/cli v1.22.17 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/vbatts/go-mtree v0.7.0 // indirect
@@ -563,7 +561,6 @@ require (
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/collector/consumer/consumererror v0.135.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.59.0 // indirect
-	go.opentelemetry.io/collector/internal/testutil v0.153.0 // indirect
 	go.opentelemetry.io/collector/pdata/pprofile v0.140.0 // indirect
 	go.opentelemetry.io/collector/semconv v0.128.0 // indirect
 	go.opentelemetry.io/contrib/detectors/gcp v1.42.0 // indirect
